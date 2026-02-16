@@ -1,5 +1,9 @@
 #include <iostream>
 
+int func1() {
+    return 0;
+}
+
 int main(){
     std::cout<<"Hello,Git!"<<std::endl;
     std::cout<<"New line"<<std::endl;
