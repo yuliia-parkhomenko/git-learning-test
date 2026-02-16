@@ -8,6 +8,10 @@ int funcFromBranch1() {
     return 123;
 }
 
+int funcFromYourBrother() {
+    return 456;
+}
+
 int main(){
     std::cout<<"Hello,Git!"<<std::endl;
     std::cout<<"New line"<<std::endl;
